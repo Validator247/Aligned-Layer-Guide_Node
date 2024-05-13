@@ -32,8 +32,8 @@ Initialize Node: Replace NodeName with your own moniker.
 
 Download Genesis & Download addrbook
 
-    curl -Ls https://snap.nodex.one/alignedlayer-testnet/genesis.json > $HOME/.alignedlayer/config/genesis.json
-    curl -Ls https://snap.nodex.one/alignedlayer-testnet/addrbook.json > $HOME/.alignedlayer/config/addrbook.json
+    wget https://raw.githubusercontent.com/Validator247/Aligned-Layer-Guide_Node/main/addrbook.json
+    wget https://raw.githubusercontent.com/Validator247/Aligned-Layer-Guide_Node/main/genesis.json
 
 Seed & Peer & Gasmini &......
 
